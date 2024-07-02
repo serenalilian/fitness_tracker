@@ -1,12 +1,12 @@
-Health and Fitness Tracker
-Overview
-The Health and Fitness Tracker is a web application designed to help users log their exercises, set fitness goals, and track their progress over time. The application provides an intuitive interface for users to manage their fitness routines and visualize their progress with charts.
+# Health and Fitness Tracker
+## Overview
+* The Health and Fitness Tracker is a web application designed to help users log their exercises, set fitness goals, and track their progress over time. The application provides an intuitive interface for users to manage their fitness routines and visualize their progress with charts.*
 
-Tech Stack
-Frontend: React
-Backend: Node.js, Express
-Database: MongoDB
-Features
+## Tech Stack
+* Frontend: React
+* Backend: Node.js, Express
+* Database: MongoDB
+## Features
 User Authentication: Sign up and log in to access personalized features.
 Exercise Logging: Record different types of exercises along with their durations.
 Goal Setting: Set and view fitness goals.
